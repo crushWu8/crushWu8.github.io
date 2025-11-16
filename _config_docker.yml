@@ -1,1 +1,7 @@
-url: ""
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /files/CV.pdf
+  - title: "About"
+    url: /about/
