@@ -78,7 +78,7 @@ analytics:
 # Site Author (侧边栏信息)
 author:
   name             : "Shanghao Wu"
-  avatar           : "/images/avatar.jpg"  # 请把头像放到 /images/avatar.jpg
+  avatar           : "/images/image.jpg"  # 请把头像放到 /images/avatar.jpg
   bio              : "Undergraduate in Mathematics (’26) at Northeastern University. Graph theory & applied ML; experience in Olympiad grading and peer tutoring."
   location         : "Boston, MA"
   email            : "wu.shangh@northeastern.edu"
