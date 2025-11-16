@@ -5,7 +5,7 @@ minimal_mistakes_skin: "dark"       # 可换 default/air/neon 等
 
 author:
   name: "Shanghao Wu"
-  avatar: "/images/avatar.jpg"      # 把头像放到 /images/avatar.jpg
+  avatar: "/images/image.jpg"      # 把头像放到 /images/avatar.jpg
   bio: "Math undergrad at Northeastern University (’26). Interested in combinatorics/graph theory and applied ML; experienced in tutoring and Olympiad grading."
   location: "Boston, MA"
   email: "wu.shangh@northeastern.edu"
