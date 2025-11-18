@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # "default" or "air"
 title                    : "Shanghao Wu"
 title_separator          : "-"
 name                     : &name "Shanghao Wu"
@@ -12,7 +11,7 @@ repository               : "crushWu8/crushWu8.github.io"
 # Site Author (sidebar)
 author:
   # Biographic information
-  avatar           : "profile.jpg"     # 头像文件（如放 /images/ 就写 /images/profile.png）
+  avatar           : "profile.jpg"    
   name             : "Shanghao Wu"
   pronouns         :
   bio              : "Undergraduate in Mathematics (’26) at Northeastern University. Graph theory & applied ML; experience in Olympiad grading and peer tutoring."
