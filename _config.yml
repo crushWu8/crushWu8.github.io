@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenjing Huang"
+title                    : "Shanghao Wu"
 title_separator          : ""
-name                     : &name "Wenjing Huang"
+name                     : &name "Shanghao Wu
 description              : &description "Master's Student in Applied Data Science at USC, interested in applied AI, recommendation systems, and computer vision."
-url                      : https://jocelynnnwj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://crushwu8.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jocelynnnwj.github.io"
+repository               : "crushwu8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenjing Huang"
+  name             : "Shanghao Wu"
   avatar           : "image.jpg"
   bio              : "Master's Student in Applied Data Science at USC. Focused on scalable, data-driven solutions combining ML, LLMs, and business impact."
   location         : "Los Angeles, California"
