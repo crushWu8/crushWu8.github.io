@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+
 ======
 I am a Mathematics B.S. student at Northeastern University graduating in 2026. I focus on blending mathematical modeling with modern computational tools to enable data informed decision making. I have experience in statistical analysis, database management, and visualization, and I am proficient in Python and MySQL for turning raw data into meaningful insights. My interests include combinatorics, graph theory, and applied machine learning with an emphasis on clean, reproducible workflows and clear communication.
 
