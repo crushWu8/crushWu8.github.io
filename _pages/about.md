@@ -15,5 +15,9 @@ My projects include pursuit and evasion on chess graphs, burning processes on st
 
 Education
 ======
-**Northeastern University**, Boston, MA  
-**B.S. in Mathematics**, Expected 2026  
+**Northeastern University**  
+*Sep 2022 – Dec 2026 (Expected)*  
+Bachelor of Science in Mathematics • Boston, MA  
+
+Selected Coursework: Real Analysis, Complex Variables, Differential Geometry, Group Theory, Number Theory, Probability and Statistics, Linear Algebra, Multivariable Calculus, Differential Equations, Machine Learning, Data Visualization and Communication, Databases
+
