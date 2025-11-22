@@ -12,8 +12,4 @@ I am a Mathematics B.S. student at Northeastern University graduating in 2026. I
 
 My projects include pursuit and evasion on chess graphs, burning processes on strong path products, and a machine learning pipeline for hospital readmission risk that covered modeling, validation, and visual reporting. I am actively seeking opportunities in applied mathematics and data science including research collaborations and internships where elegant theory connects to usable systems and real world impact.
 
-Education
-======
-**Northeastern University**  
-*Sep 2022 – Dec 2026 (Expected)*  
-Bachelor of Science in Mathematics • Boston, MA  
+
