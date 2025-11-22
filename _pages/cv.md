@@ -124,24 +124,3 @@ redirect_from: ["/resume"]
 
 ---
 
-## Publications
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
-## Talks
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html  %}
-{% endfor %}
-</ul>
-
-## Teaching
-- Peer Tutor, Northeastern University — Calculus III, Differential Equations, Linear Algebra, Physics I (Feb 2024 – May 2025)
-
-## Service and Leadership
-- UKMT & BOM — Grader / Lead Grader (Nov 2023 – Aug 2025)  
-- ASDAN — Marking Team and calibration (Nov 2023 – Jan 2025)
-
