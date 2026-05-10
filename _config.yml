@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Shanghao Wu"
 title_separator          : "-"
 name                     : &name "Shanghao Wu"
-description              : &description "B.S. in Mathematics at Northeastern University — interests: combinatorics/graph theory & applied machine learning."
+description              : &description "B.S. in Mathematics at Northeastern University (GPA 3.86) — research in combinatorics/graph theory & applied machine learning."
 url                      : https://crushwu8.github.io
 baseurl                  : ""
 repository               : "crushWu8/crushWu8.github.io"
@@ -14,7 +14,7 @@ author:
   avatar           : "profile.jpg"    
   name             : "Shanghao Wu"
   pronouns         :
-  bio              : "Undergraduate in Mathematics (’26) at Northeastern University. Graph theory & applied ML; experience in Olympiad grading and peer tutoring."
+  bio              : "Mathematics undergraduate at Northeastern University (GPA 3.86). Research in combinatorics, graph theory & applied ML. Two arXiv preprints; Dean’s List."
   location         : "Boston, MA"
   employer         : "Northeastern University"
   uri              :
