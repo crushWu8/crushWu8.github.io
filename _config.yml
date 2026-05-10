@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Shanghao Wu"
 title_separator          : "-"
 name                     : &name "Shanghao Wu"
-description              : &description "B.S. in Mathematics at Northeastern University (GPA 3.86) — research in combinatorics/graph theory & applied machine learning."
+description              : &description "B.S. in Mathematics at Northeastern University — research in combinatorics, graph theory, and applied machine learning."
 url                      : https://crushwu8.github.io
 baseurl                  : ""
 repository               : "crushWu8/crushWu8.github.io"
