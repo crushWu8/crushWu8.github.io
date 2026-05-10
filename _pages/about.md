@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 
-I am a Mathematics undergraduate at Northeastern University (B.S., expected Aug 2026, GPA 3.86/4.00). My research interests span combinatorics, graph theory, and applied machine learning, with an emphasis on clean, reproducible workflows and clear communication.
+*Hey, how's it going? I'm Shanghao, and I love math.*
 
-I currently work as a Research Assistant under Prof. Lee-Peng Lee, applying dimensionality reduction techniques (PCA, Kernel PCA, LDA) to face recognition problems. Previously, I participated in an NSF-sponsored REU where I co-authored two combinatorics papers on cops and robbers on chess graphs and burning games on strong path products, both published on arXiv.
+I'm a math senior at Northeastern who treats modeling as a craft — framing questions, testing assumptions, and turning messy data into something you can act on. My work bounces between pure and applied: one week I'm proving two cops can never catch a robber on a queen graph, the next I'm figuring out why Kernel PCA fails on high-dimensional faces.
 
-On the applied side, I have built machine learning pipelines for hospital readmission prediction, interactive data visualization dashboards for MBTA bus reliability, and game-theoretic models for FIFA ticket market pricing. I am proficient in Python, SQL, and standard ML/data science tooling (Scikit-learn, Pandas, NumPy, Matplotlib).
+Two arXiv preprints in combinatorics. A machine learning pipeline that predicts hospital readmissions. An interactive dashboard tracking how Boston weather disrupts MBTA bus schedules. A Bertrand duopoly model for FIFA ticket pricing. I like problems that make me reach across fields.
 
-I am actively seeking opportunities in applied mathematics and data science — research collaborations and internships where elegant theory connects to usable systems and real-world impact.
+I care about clean code, reproducible results, and explaining things so they actually land — which is probably why I've tutored 50+ students and still think teaching is the best way to learn.
+
+Currently seeking opportunities in applied math, data science, or ML research. If I'm not at my desk, check the nearest soccer field — I'm the midfielder still thinking about gradients while chasing the ball.
 
 
