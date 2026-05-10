@@ -72,59 +72,59 @@ redirect_from: ["/resume"]
 
 ## Selected Projects
 
-<div class=”cv-item”>
-  <div class=”cv-row”>
-    <span><strong>Diabetic Readmission Prediction</strong> · Machine Learning</span>
-    <span class=”cv-right”>Mar 2025 – Apr 2025</span>
-  </div>
-  <ul>
-    <li>Predicted 30-day hospital readmission for diabetic patients on the UCI Diabetes 130-US Hospitals dataset; built a reproducible ML pipeline with feature engineering, comparing Random Forest, Gradient Boosting, and KNN via cross-validation, achieving a positive-class F1 of 0.57.</li>
-    <li>Conducted fairness audits by age and gender; identified prior inpatient visits and high utilization as key readmission drivers.</li>
-  </ul>
+<div class="cv-item" markdown="0">
+<div class="cv-row">
+<span><strong>Diabetic Readmission Prediction</strong> · Machine Learning</span>
+<span class="cv-right">Mar 2025 – Apr 2025</span>
+</div>
+<ul>
+<li>Predicted 30-day hospital readmission for diabetic patients on the UCI Diabetes 130-US Hospitals dataset; built a reproducible ML pipeline with feature engineering, comparing Random Forest, Gradient Boosting, and KNN via cross-validation, achieving a positive-class F1 of 0.57.</li>
+<li>Conducted fairness audits by age and gender; identified prior inpatient visits and high utilization as key readmission drivers.</li>
+</ul>
 </div>
 
-<div class=”cv-item”>
-  <div class=”cv-row”>
-    <span><strong>MBTA Bus Reliability Dashboard</strong> · Data Visualization</span>
-    <span class=”cv-right”>Nov 2025 – Dec 2025</span>
-  </div>
-  <ul>
-    <li>Cleaned and aggregated historical MBTA bus performance data, joining it with daily weather records to analyze on-time reliability across key routes.</li>
-    <li>Built and deployed an interactive dashboard on GitHub Pages visualizing reliability trends, precipitation impact, and route-level ridership shifts under varying weather conditions.</li>
-  </ul>
+<div class="cv-item" markdown="0">
+<div class="cv-row">
+<span><strong>MBTA Bus Reliability Dashboard</strong> · Data Visualization</span>
+<span class="cv-right">Nov 2025 – Dec 2025</span>
+</div>
+<ul>
+<li>Cleaned and aggregated historical MBTA bus performance data, joining it with daily weather records to analyze on-time reliability across key routes.</li>
+<li>Built and deployed an interactive dashboard on GitHub Pages visualizing reliability trends, precipitation impact, and route-level ridership shifts under varying weather conditions.</li>
+</ul>
 </div>
 
-<div class=”cv-item”>
-  <div class=”cv-row”>
-    <span><strong>FIFA Ticket Market Price Competition</strong> · Mathematical Modeling</span>
-    <span class=”cv-right”>Nov 2025 – Dec 2025</span>
-  </div>
-  <ul>
-    <li>Modeled price competition between FIFA's official resale platform and the unofficial secondary market using a static Bertrand duopoly framework with a deviation parameter δ ∈ [0, 0.5].</li>
-    <li>Estimated a linear demand system from real transaction data, evaluated revenues under four pricing regimes, and visualized comparative statics of equilibrium deviations.</li>
-  </ul>
+<div class="cv-item" markdown="0">
+<div class="cv-row">
+<span><strong>FIFA Ticket Market Price Competition</strong> · Mathematical Modeling</span>
+<span class="cv-right">Nov 2025 – Dec 2025</span>
+</div>
+<ul>
+<li>Modeled price competition between FIFA's official resale platform and the unofficial secondary market using a static Bertrand duopoly framework with a deviation parameter δ ∈ [0, 0.5].</li>
+<li>Estimated a linear demand system from real transaction data, evaluated revenues under four pricing regimes, and visualized comparative statics of equilibrium deviations.</li>
+</ul>
 </div>
 
-<div class="cv-item">
-  <div class="cv-row">
-    <span><strong>Wildlife Strike Analytics</strong> · Data Analysis</span>
-    <span class="cv-right">Oct 2024</span>
-  </div>
-  <ul>
-    <li>Analyzed FAA wildlife strike data to uncover safety risk, financial costs, and operational disruptions across flight phases, aircraft types, and locations.</li>
-    <li>Built simple predictive models to forecast near-term incidents and illustrated limitations of linear extrapolation.</li>
-  </ul>
+<div class="cv-item" markdown="0">
+<div class="cv-row">
+<span><strong>Wildlife Strike Analytics</strong> · Data Analysis</span>
+<span class="cv-right">Oct 2024</span>
+</div>
+<ul>
+<li>Analyzed FAA wildlife strike data to uncover safety risk, financial costs, and operational disruptions across flight phases, aircraft types, and locations.</li>
+<li>Built simple predictive models to forecast near-term incidents and illustrated limitations of linear extrapolation.</li>
+</ul>
 </div>
 
-<div class="cv-item">
-  <div class="cv-row">
-    <span><strong>Crime Analysis: Boston & Los Angeles</strong> · Data Analysis</span>
-    <span class="cv-right">Jul 2024 – Sep 2024</span>
-  </div>
-  <ul>
-    <li>Analyzed crime trends in Boston and Los Angeles from 2020 to 2024, focusing on fluctuations during economic recessions and public health crises.</li>
-    <li>Studied correlations between socioeconomic factors and crime rates to support public safety strategies and policy recommendations.</li>
-  </ul>
+<div class="cv-item" markdown="0">
+<div class="cv-row">
+<span><strong>Crime Analysis: Boston &amp; Los Angeles</strong> · Data Analysis</span>
+<span class="cv-right">Jul 2024 – Sep 2024</span>
+</div>
+<ul>
+<li>Analyzed crime trends in Boston and Los Angeles from 2020 to 2024, focusing on fluctuations during economic recessions and public health crises.</li>
+<li>Studied correlations between socioeconomic factors and crime rates to support public safety strategies and policy recommendations.</li>
+</ul>
 </div>
 
 ---
