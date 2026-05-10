@@ -105,6 +105,28 @@ redirect_from: ["/resume"]
   </ul>
 </div>
 
+<div class="cv-item">
+  <div class="cv-row">
+    <span><strong>Wildlife Strike Analytics</strong> · Data Analysis</span>
+    <span class="cv-right">Oct 2024</span>
+  </div>
+  <ul>
+    <li>Analyzed FAA wildlife strike data to uncover safety risk, financial costs, and operational disruptions across flight phases, aircraft types, and locations.</li>
+    <li>Built simple predictive models to forecast near-term incidents and illustrated limitations of linear extrapolation.</li>
+  </ul>
+</div>
+
+<div class="cv-item">
+  <div class="cv-row">
+    <span><strong>Crime Analysis: Boston & Los Angeles</strong> · Data Analysis</span>
+    <span class="cv-right">Jul 2024 – Sep 2024</span>
+  </div>
+  <ul>
+    <li>Analyzed crime trends in Boston and Los Angeles from 2020 to 2024, focusing on fluctuations during economic recessions and public health crises.</li>
+    <li>Studied correlations between socioeconomic factors and crime rates to support public safety strategies and policy recommendations.</li>
+  </ul>
+</div>
+
 ---
 
 ## Skills
