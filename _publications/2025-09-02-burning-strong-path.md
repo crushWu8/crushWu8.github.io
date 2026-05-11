@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-burning-strong-path
 excerpt: 'Bounds on burning and cooling numbers for strong path products, with a lower bound for the critical number k* via generating functions.'
-date: 2025-09-02
+date: 2025-09-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2509.20572'
 citation: 'S. Ambrose, E. Angelone, J. Chen, D. Ma, A. Ortiz San Miguel, W. Watanabe, S. Whitcomb, S. Wu. &quot;Burning Games on Strong Path Products.&quot; <i>arXiv:2509.20572</i>, 2025.'
