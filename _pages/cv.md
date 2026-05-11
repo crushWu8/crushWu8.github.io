@@ -15,8 +15,59 @@ redirect_from: ["/resume"]
     <span><strong>Northeastern University</strong> — B.S. in Mathematics</span>
     <span class="cv-right">Boston, MA · Sep 2022 – Aug 2026</span>
   </div>
-  <div class="cv-sub">GPA 3.86/4.00 · Dean's List (5 semesters)</div>
+  <div class="cv-sub">GPA 3.86/4.00</div>
   <div><strong>Selected Coursework:</strong> Linear Algebra, Matrix Methods in Data Analysis, Probability & Statistics, Foundations of Data Science, Information Visualization, Databases, Mathematical Modeling & Methods, Real Analysis</div>
+</div>
+
+---
+
+## Honors & Awards
+
+<div class="cv-item">
+<div class="cv-row">
+<span><strong>Dean's List</strong> — Northeastern University</span>
+<span class="cv-right">5 semesters</span>
+</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-row">
+<span><strong>AMC 12 — Honor Roll of Distinction</strong></span>
+<span class="cv-right">Jan 2021</span>
+</div>
+<ul>
+<li>Awarded by the Mathematical Association of America for scoring in the global top 1%.</li>
+</ul>
+</div>
+
+<div class="cv-item">
+<div class="cv-row">
+<span><strong>AMC 12 — Certificate of Highly Distinction</strong></span>
+<span class="cv-right">Jan 2021</span>
+</div>
+<ul>
+<li>Awarded by the MAA for scoring in the China national top 5%.</li>
+</ul>
+</div>
+
+<div class="cv-item">
+<div class="cv-row">
+<span><strong>Euclid Contest — Student Honour Roll</strong></span>
+<span class="cv-right">Apr 2021</span>
+</div>
+<ul>
+<li>Awarded by the University of Waterloo for scoring in the global top 5%.</li>
+</ul>
+</div>
+
+<div class="cv-item">
+<div class="cv-row">
+<span><strong>Duke Math Meet — Bronze Award</strong></span>
+<span class="cv-right">Oct 2021</span>
+</div>
+<ul>
+<li>Top 6 among participating teams.</li>
+</ul>
 </div>
 
 ---
