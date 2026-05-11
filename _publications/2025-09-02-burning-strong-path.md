@@ -3,7 +3,7 @@ title: "Burning Games on Strong Path Products"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-burning-strong-path
-excerpt: 'Bounds on burning and cooling numbers for strong path products, with a lower bound for the critical number k* via generating functions.'
+excerpt: 'We establish bounds on the burning and cooling numbers of strong products of paths and derive a lower bound for the critical number k* using generating functions and combinatorial tiling arguments.'
 date: 2025-09-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2509.20572'

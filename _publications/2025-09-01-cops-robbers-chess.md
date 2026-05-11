@@ -3,7 +3,7 @@ title: "Cops and Robbers on Chess Graphs"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-cops-robbers-chess
-excerpt: 'Complete classification of cop numbers for all n×n classical chess graphs, proving two cops are insufficient on queen graphs Q_n for n ≥ 10.'
+excerpt: 'We classify the cop number of n×n chess graphs for all classical pieces and prove that two cops do not suffice on queen graphs Q_n for n ≥ 10.'
 date: 2025-09-02
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2509.18516'
